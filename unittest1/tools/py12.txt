@@ -1,0 +1,27 @@
+2019-08-26 15:08:54,206 - D:\pyCharm Setup\Py-file\unittest1\tools\my_log.py[line:30] - INFO: 这是关于正常注册的测试用例
+2019-08-26 15:08:54,669 - D:\pyCharm Setup\Py-file\unittest1\tools\my_log.py[line:30] - INFO: 这是关于密码为空注册的测试用例
+2019-08-26 15:08:54,754 - D:\pyCharm Setup\Py-file\unittest1\tools\my_log.py[line:30] - INFO: 这是关于注册过的手机号码注册的测试用例
+2019-08-26 15:08:54,785 - D:\pyCharm Setup\Py-file\unittest1\tools\my_log.py[line:34] - ERROR: 注册过的手机号码注册出错了，错误信息是：0 != 101004
+2019-08-26 15:08:54,786 - D:\pyCharm Setup\Py-file\unittest1\tools\my_log.py[line:30] - INFO: 返回的数据是：{'statusCode': 101004, 'errorMessage': '手机号码已经存在', 'content': None, 'timestamp': 1566803339}
+2019-08-28 08:24:45,725 - D:\pyCharm Setup\Py-file\unittest1\tools\my_log.py[line:31] - INFO: 这是关于正常注册的测试用例
+2019-08-28 08:24:46,807 - D:\pyCharm Setup\Py-file\unittest1\tools\my_log.py[line:31] - INFO: 这是关于密码为空注册的测试用例
+2019-08-28 08:24:47,001 - D:\pyCharm Setup\Py-file\unittest1\tools\my_log.py[line:31] - INFO: 这是关于注册过的手机号码注册的测试用例
+2019-08-28 08:24:47,040 - D:\pyCharm Setup\Py-file\unittest1\tools\my_log.py[line:35] - ERROR: 注册过的手机号码注册出错了，错误信息是：0 != 101004
+2019-08-28 08:24:47,041 - D:\pyCharm Setup\Py-file\unittest1\tools\my_log.py[line:31] - INFO: 返回的数据是：{'statusCode': 101004, 'errorMessage': '手机号码已经存在', 'content': None, 'timestamp': 1566951892}
+2019-09-03 00:20:45,216 - D:\ruanjian\pycharm\PycharmProjects\untitled\lemon\unittest1\tools\my_log.py[line:31] - INFO: 这是关于正常注册的测试用例
+2019-09-03 00:20:45,667 - D:\ruanjian\pycharm\PycharmProjects\untitled\lemon\unittest1\tools\my_log.py[line:31] - INFO: 这是关于密码为空注册的测试用例
+2019-09-03 00:20:46,041 - D:\ruanjian\pycharm\PycharmProjects\untitled\lemon\unittest1\tools\my_log.py[line:31] - INFO: 这是关于注册过的手机号码注册的测试用例
+2019-09-03 00:20:46,131 - D:\ruanjian\pycharm\PycharmProjects\untitled\lemon\unittest1\tools\my_log.py[line:35] - ERROR: 注册过的手机号码注册出错了，错误信息是：0 != 101004
+2019-09-03 00:20:46,131 - D:\ruanjian\pycharm\PycharmProjects\untitled\lemon\unittest1\tools\my_log.py[line:31] - INFO: 返回的数据是：{'statusCode': 101004, 'errorMessage': '手机号码已经存在', 'content': None, 'timestamp': 1567441242}
+2019-09-03 09:36:59,388 - D:\ruanjian\pycharm\PycharmProjects\untitled\lemon\unittest1\tools\my_log.py[line:31] - INFO: 这是关于正常注册的测试用例
+2019-09-03 09:36:59,653 - D:\ruanjian\pycharm\PycharmProjects\untitled\lemon\unittest1\tools\my_log.py[line:31] - INFO: 这是关于密码为空注册的测试用例
+2019-09-03 09:38:11,811 - D:\ruanjian\pycharm\PycharmProjects\untitled\lemon\unittest1\tools\my_log.py[line:31] - INFO: 这是关于正常注册的测试用例
+2019-09-03 09:38:12,064 - D:\ruanjian\pycharm\PycharmProjects\untitled\lemon\unittest1\tools\my_log.py[line:31] - INFO: 这是关于密码为空注册的测试用例
+2019-09-03 11:01:17,414 - D:\ruanjian\pycharm\PycharmProjects\untitled\lemon\unittest1\tools\my_log.py[line:31] - INFO: 这是关于正常注册的测试用例
+2019-09-03 11:01:17,655 - D:\ruanjian\pycharm\PycharmProjects\untitled\lemon\unittest1\tools\my_log.py[line:31] - INFO: 这是关于密码为空注册的测试用例
+2019-09-03 11:18:07,655 - D:\ruanjian\pycharm\PycharmProjects\untitled\lemon\unittest1\tools\my_log.py[line:31] - INFO: 这是关于正常注册的测试用例
+2019-09-03 11:18:08,214 - D:\ruanjian\pycharm\PycharmProjects\untitled\lemon\unittest1\tools\my_log.py[line:31] - INFO: 这是关于密码为空注册的测试用例
+2019-09-03 11:30:01,995 - D:\ruanjian\pycharm\PycharmProjects\untitled\lemon\unittest1\tools\my_log.py[line:31] - INFO: 这是关于正常注册的测试用例
+2019-09-03 11:30:02,270 - D:\ruanjian\pycharm\PycharmProjects\untitled\lemon\unittest1\tools\my_log.py[line:31] - INFO: 这是关于密码为空注册的测试用例
+2019-09-03 15:31:01,658 - D:\ruanjian\pycharm\PycharmProjects\untitled\lemon\unittest1\tools\my_log.py[line:31] - INFO: 这是关于正常注册的测试用例
+2019-09-03 15:31:02,013 - D:\ruanjian\pycharm\PycharmProjects\untitled\lemon\unittest1\tools\my_log.py[line:31] - INFO: 这是关于密码为空注册的测试用例

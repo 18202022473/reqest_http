@@ -1,0 +1,9 @@
+[MODE]
+mode = {'sign_in':[1, 2]}
+
+[DB]
+db_config = {'host': '47.107.168.87',
+             'user': 'python',
+             'password': 'python666',
+             'port': 3306,
+             'database': 'future'}
